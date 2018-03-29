@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219494430164",
+    "firebase_url": "https://watchmen-app.firebaseio.com",
+    "project_id": "watchmen-app",
+    "storage_bucket": "watchmen-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219494430164:android:0c7c932063e15b2b",
+        "android_client_info": {
+          "package_name": "com.watchmen.watchmen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219494430164-funucbu6vskjl6bk845hressnf5j5n8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.watchmen.watchmen",
+            "certificate_hash": "a075c2cf60a74f5e962612d41fb04ecd73875063"
+          }
+        },
+        {
+          "client_id": "219494430164-8f7mv8fk24n7df8k7j2urr1balogkbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Fg5kLQ6P66Vakk3jLBg9lB3dSqDaPW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219494430164-8f7mv8fk24n7df8k7j2urr1balogkbkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
